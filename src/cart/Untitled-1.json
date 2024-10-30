@@ -1,0 +1,149 @@
+{
+  "name": "Product Ten",
+  "productCategoryId": 1,
+  "productTypeId": 2,
+  "genderId": 2,
+  "thumbImage": "assets/images/new-arrival/10.webp",
+  "description": "This is a sample product 10 description.",
+  "price": 79,
+  "rating": 5,
+  "discount": 10,
+  "colors": [
+    {
+      "colorName": "Red",
+      "colorImages": [
+        "assets/images/new-arrival/10.webp",
+        "assets/images/new-arrival/01.webp",
+        "assets/images/new-arrival/02.webp",
+        "assets/images/new-arrival/07.webp",
+        "assets/images/new-arrival/04.webp",
+        "assets/images/new-arrival/08.webp"
+      ],
+      "sizes": [
+        {
+          "sizeName": "S",
+          "inventory": 8
+        },
+        {
+          "sizeName": "M",
+          "inventory": 5
+        },
+        {
+          "sizeName": "L",
+          "inventory": 5
+        },
+        {
+          "sizeName": "XL",
+          "inventory": 2
+        },
+        {
+          "sizeName": "3XL",
+          "inventory": 0
+        }
+      ]
+    },
+    {
+      "colorName": "Blue",
+      "colorImages": [
+        "assets/images/new-arrival/01.webp",
+        "assets/images/new-arrival/02.webp",
+        "assets/images/new-arrival/03.webp",
+        "assets/images/new-arrival/04.webp",
+        "assets/images/new-arrival/05.webp",
+        "assets/images/new-arrival/07.webp"
+      ],
+      "sizes": [
+        {
+          "sizeName": "S",
+          "inventory": 3
+        },
+        {
+          "sizeName": "M",
+          "inventory": 4
+        },
+        {
+          "sizeName": "L",
+          "inventory": 8
+        },
+        {
+          "sizeName": "XL",
+          "inventory": 0
+        },
+        {
+          "sizeName": "3XL",
+          "inventory": 4
+        }
+      ]
+    },
+    {
+      "colorName": "Green",
+      "colorImages": [
+        "assets/images/new-arrival/02.webp",
+        "assets/images/new-arrival/03.webp",
+        "assets/images/new-arrival/01.webp",
+        "assets/images/new-arrival/04.webp",
+        "assets/images/new-arrival/05.webp",
+        "assets/images/new-arrival/08.webp"
+      ],
+      "sizes": [
+        {
+          "sizeName": "XS",
+          "inventory": 10
+        },
+        {
+          "sizeName": "S",
+          "inventory": 6
+        },
+        {
+          "sizeName": "M",
+          "inventory": 6
+        },
+        {
+          "sizeName": "XXL",
+          "inventory": 0
+        },
+        {
+          "sizeName": "3XL",
+          "inventory": 7
+        }
+      ]
+    },
+    {
+      "colorName": "Black",
+      "colorImages": [
+        "assets/images/new-arrival/03.webp",
+        "assets/images/new-arrival/02.webp",
+        "assets/images/new-arrival/04.webp",
+        "assets/images/new-arrival/09.webp",
+        "assets/images/new-arrival/05.webp",
+        "assets/images/new-arrival/06.webp"
+      ],
+      "sizes": [
+        {
+          "sizeName": "S",
+          "inventory": 5
+        },
+        {
+          "sizeName": "M",
+          "inventory": 0
+        },
+        {
+          "sizeName": "L",
+          "inventory": 10
+        },
+        {
+          "sizeName": "XL",
+          "inventory": 7
+        },
+        {
+          "sizeName": "3XL",
+          "inventory": 2
+        },
+        {
+          "sizeName": "XXL",
+          "inventory": 6
+        }
+      ]
+    }
+  ]
+}
